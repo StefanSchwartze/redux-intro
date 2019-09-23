@@ -1,5 +1,5 @@
-# serverless-intro
-A short talk about serverless.
+# redux-intro
+A short talk about Redux.
 
 To get started, first install all dependencies:
 ```bash
